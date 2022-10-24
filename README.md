@@ -7,6 +7,8 @@ repo to learn devops
 
 * This is an example on how to use [cloud-based colab notebook](https://colab.research.google.com/github/ajaiswal23/python-for-devops/blob/main/getting_started_python_devops.ipynb#scrollTo=i7d0aRc3WkNj)
 
+* Could've used AWS Cloud9 but it's just for learning purposes.
+
 
 ## Build out python project scaffold:
 * Make file
