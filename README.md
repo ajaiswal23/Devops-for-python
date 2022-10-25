@@ -1,3 +1,6 @@
+[![Test multiple Python versions](https://github.com/ajaiswal23/Devops-for-python/actions/workflows/python-package.yml/badge.svg)](https://github.com/ajaiswal23/Devops-for-python/actions/workflows/python-package.yml)
+
+
 # python-for-devops
 repo to learn devops
 
