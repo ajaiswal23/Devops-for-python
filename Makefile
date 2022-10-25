@@ -6,3 +6,6 @@ lint:
 
 test:
 	python -m pytest -vv --cov=devopslib test_*.py
+
+format:
+	black *py devopslib/*.py
